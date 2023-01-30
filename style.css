@@ -1,11 +1,9 @@
 
 body{
   font-family: 'Open Sans', sans-serif;
-  background:url(https://scontent.fros1-1.fna.fbcdn.net/v/t1.6435-9/100566418_3022189527861291_7630635122244452352_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=2Z2hQ5FUrKwAX-zQBUw&_nc_ht=scontent.fros1-1.fna&oh=00_AfDHaGufnrqghyD5eAPKEccmxBBwSAz7ig1Zg2X6KNLxUw&oe=63F44689);
-background-size: 100% 100%;
-background-size: cover;
-
-
+  background:url(https://scontent.fros1-1.fna.fbcdn.net/v/t1.6435-9/100566418_3022189527861291_7630635122244452352_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=2Z2hQ5FUrKwAX-zQBUw&_nc_ht=scontent.fros1-1.fna&oh=00_AfDHaGufnrqghyD5eAPKEccmxBBwSAz7ig1Zg2X6KNLxUw&oe=63F44689) center center fixed ;
+  background-size: cover;
+  
 }
 
 header{
